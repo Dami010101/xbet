@@ -11,9 +11,9 @@
 
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:768px) {
   .headerContent{
-    height: 52vh;
+    height: 53vh;
   
   }
   

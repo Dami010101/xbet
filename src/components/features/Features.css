@@ -1,5 +1,7 @@
 .feat{
     text-align: center;
+    padding-top: 2.25rem/* 36px */;
+    padding-bottom: 2.25rem/* 36px */;
 }
 .bm{
     margin: auto;
