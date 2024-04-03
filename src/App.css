@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+.headerContent{
+  background-image: url(./asset/back4.jpg);
+  background-size: cover;
+  height: 80vh;
+
+}
+
+@media screen and (max-width:900px) {
+  .headerContent{
+    height: 52vh;
+  
+  }
+  
+}

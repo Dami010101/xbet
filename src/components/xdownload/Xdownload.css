@@ -1,0 +1,105 @@
+.xcon{
+    background-image: url(../../asset/Bacca.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.xd{
+    background-color: #FF4500;
+    text-align: center;
+    padding: 50px 0;
+    position: relative;
+    color: white;
+    
+
+  }
+
+/* .xd h1::after{
+    content: '';
+    background-color: white;
+    height: 1px;
+    width: 10%;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+
+  } */
+
+  .secbut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .butd{
+    background-color: transparent;
+    border: solid 2px white;
+    border-radius: 4px;
+    color: white;
+    padding: 6px 12px;
+    font-weight: bold;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  form{
+    width: 100%;
+    display: flex;
+    max-width: 500rem;
+    margin: 20px;
+  }
+
+  #isub{
+    border: gray solid 1px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 80%;
+    padding: 6px;
+    background-color: transparent;
+
+  }
+  #ssub{
+    border: gray solid 1px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 6px;
+    background-color: black;
+  }
+  /* hr{
+    width: 10%;
+    left: 50%;
+    margin: auto;
+    color: white;
+  } */
+  .fle{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    padding: 50px 0;
+  }
+  .hlin{
+    font-size: 30px;
+    color: white;
+  }
+  .buticon{
+    display: flex;
+    color: white;
+    gap: 20px;
+    justify-content: center;
+  }
+  .bicon{
+    border: #FF4500 solid 1px;
+    border-radius: 100%;
+    padding: 9px;
+    transition: all 0.3s;
+  }
+  .bicon:hover{
+    background-color: #FF4500;
+    color: white;
+    cursor: pointer;
+  }
