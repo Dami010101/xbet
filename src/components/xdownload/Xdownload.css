@@ -1,6 +1,6 @@
 .xcon{
     background-image: url(../../asset/Bacca.jpg);
-    height: 80vh;
+    /* height: 80vh; */
     background-size: cover;
     background-attachment: fixed;
 }
