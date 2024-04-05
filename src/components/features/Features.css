@@ -16,7 +16,7 @@
 @media screen and (max-width:768px) {
     .featpika{
         display: block;
-        padding: 40px;
+        padding: 0 40px;
 
 
     }
